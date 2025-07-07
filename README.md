@@ -7,6 +7,6 @@ It includes:
 - Mod to command block port.
 - Structures
 
-##Usage
+## Usage
 
 - Place down a command block, paste one of the commands in and activate the command block with either "Always active" mode or redstone signal.
