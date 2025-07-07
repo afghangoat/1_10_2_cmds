@@ -1,4 +1,4 @@
-#My 1.10.2 Minecraft one command contraptions
+# My 1.10.2 Minecraft one command contraptions
 
 This txt file is a comprehensive list of all of my command creations for minecraft.
 
